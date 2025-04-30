@@ -92,5 +92,3 @@ Before diving into **AWS IAM (Identity and Access Management)**, it's helpful to
 
 ### **Final Tip**
 You don’t need **deep** OS expertise, but understanding these concepts will make IAM policies, roles, and security much easier.  
-
-> **Need hands-on exercises or resources?** Check out free courses like [Linux Journey](https://linuxjourney.com/) or [Microsoft Learn](https://learn.microsoft.com/).
