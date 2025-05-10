@@ -89,6 +89,3 @@ Before diving into **AWS IAM (Identity and Access Management)**, it's helpful to
    - Learn about **MFA**, **password policies**, and **audit logs**.  
 
 ---
-
-### **Final Tip**
-You don’t need **deep** OS expertise, but understanding these concepts will make IAM policies, roles, and security much easier.  
